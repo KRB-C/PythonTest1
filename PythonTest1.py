@@ -32,5 +32,5 @@ class Login:
         self.tries = 3
 
 
-P = Login()
-P.get_login()
+login = Login()
+login.get_login()
